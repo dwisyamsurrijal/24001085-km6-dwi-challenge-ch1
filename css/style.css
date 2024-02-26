@@ -1,0 +1,26 @@
+.section-main {
+  background-color: #f1f3ff;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 1.4rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.card {
+  height: 100%;
+}
+
+.obj {
+  z-index: 0;
+}
